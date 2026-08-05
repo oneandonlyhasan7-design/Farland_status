@@ -59,16 +59,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/shahidbh.farland.qzz.io.ico",
     "slug": "farland-education",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "59.11%",
+    "uptimeDay": "59.11%",
+    "uptimeWeek": "59.11%",
+    "uptimeMonth": "59.11%",
+    "uptimeYear": "59.11%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-08-05": 0
+    }
   }
 ]
