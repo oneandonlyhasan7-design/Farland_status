@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Farland Logo">
+  <defs>
+    <linearGradient id="aflGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4caf50"/>
+      <stop offset="100%" stop-color="#1b5e20"/>
+    </linearGradient>
+    <linearGradient id="aflShine" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="rgba(255,255,255,.22)"/>
+      <stop offset="100%" stop-color="rgba(255,255,255,.0)"/>
+    </linearGradient>
+    <filter id="aflShadow" x="-15%" y="-15%" width="130%" height="130%">
+      <feDropShadow dx="0" dy="4" stdDeviation="7" flood-color="rgba(0,0,0,.38)"/>
+    </filter>
+  </defs>
+  <polygon points="100,6 183,50 183,150 100,194 17,150 17,50" fill="url(#aflGrad)" filter="url(#aflShadow)"/>
+  <polygon points="100,6 183,50 183,150 100,194 17,150 17,50" fill="url(#aflShine)"/>
+  <polygon points="100,14 176,56 176,144 100,186 24,144 24,56" fill="none" stroke="rgba(255,255,255,.22)" stroke-width="1.5"/>
+  <polygon points="100,28 164,64 164,136 100,172 36,136 36,64" fill="none" stroke="rgba(255,255,255,.1)" stroke-width="1"/>
+  <rect x="58" y="52" width="21" height="98" rx="6" fill="white"/>
+  <rect x="58" y="52" width="78" height="22" rx="6" fill="white"/>
+  <rect x="58" y="95" width="62" height="19" rx="6" fill="rgba(255,255,255,.88)"/>
+  <circle cx="153" cy="58" r="7.5" fill="rgba(255,255,255,.72)"/>
+  <circle cx="140" cy="76" r="5.5" fill="rgba(255,255,255,.55)"/>
+  <circle cx="161" cy="78" r="4.5" fill="rgba(255,255,255,.48)"/>
+  <circle cx="147" cy="92" r="3.5" fill="rgba(255,255,255,.4)"/>
+  <circle cx="164" cy="95" r="3" fill="rgba(255,255,255,.35)"/>
+  <line x1="153" y1="58" x2="140" y2="76" stroke="rgba(255,255,255,.4)" stroke-width="1.5"/>
+  <line x1="153" y1="58" x2="161" y2="78" stroke="rgba(255,255,255,.4)" stroke-width="1.5"/>
+  <line x1="140" y1="76" x2="147" y2="92" stroke="rgba(255,255,255,.3)" stroke-width="1.2"/>
+  <line x1="161" y1="78" x2="164" y2="95" stroke="rgba(255,255,255,.3)" stroke-width="1.2"/>
+  <line x1="140" y1="76" x2="161" y2="78" stroke="rgba(255,255,255,.22)" stroke-width="1"/>
+  <line x1="147" y1="92" x2="164" y2="95" stroke="rgba(255,255,255,.22)" stroke-width="1"/>
+</svg>
